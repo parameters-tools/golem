@@ -40,7 +40,7 @@ Ensure you have [Rust](https://www.rust-lang.org/tools/install) and [Docker](htt
 
 ```bash
 # Clone the repository
-git clone https://github.com/khokharsnehil45/golem.git
+git clone https://github.com/parameters-tools/golem.git
 cd golem
 
 # Build and install to ~/.cargo/bin
